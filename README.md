@@ -1,4 +1,4 @@
-# Olá, eu sou o Caio Espíndola 👋
+# 👋
 
 **Desenvolvedor Full Stack** desde Jan/2023 focado em transformar ideias em aplicações web completas. 
 Atualmente atuo com minha prestadora de serviços digital **Sistemas Web C.E** na qual sou fundador e desenvolvedor. 
