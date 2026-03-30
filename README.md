@@ -2,7 +2,7 @@
 
 **Desenvolvedor Full Stack** desde Jan/2023 focado em transformar ideias em aplicações web completas.<br/>
 Atualmente atuo com a minha prestadora de serviços digital **Sistemas Web C.E** na qual sou fundador e desenvolvedor.<br/>
-Meu trabalho é transformar e trazer as ideias dos clientes para o mundo digital, unindo técnica e transparência para entregar soluções que vão do site ao banco de dados, proporcionando gráficos e relatórios.
+Meu trabalho é transformar e trazer as ideias dos clientes para o mundo digital, unindo técnica e transparência para entregar soluções eficientes que vão do site ao banco de dados, proporcionando gráficos, relatórios e SEO.
 
 ## 🚀 Sobre mim
 - 👨‍💻 Desenvolvedor Full Stack focado em criar soluções digitais para empresas e profissionais autônomos que buscam escalar sua presença online com web sites ou criar sistemas web.
