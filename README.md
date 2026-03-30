@@ -7,7 +7,7 @@ Meu trabalho é transformar e trazer as ideias dos clientes para o mundo digital
 ## 🚀 Sobre mim
 - 👨‍💻 Desenvolvedor Full Stack focado em criar soluções digitais para empresas e profissionais autônomos que buscam escalar sua presença online com web sites ou criar sistemas web.
 - 🤝 Acredito no desenvolvimento colaborativo, onde o cliente participa da construção, sendo ouvido e orientado tecnicamente em cada tomada de decisão.
-- ⚡ Comprometido com a evolução contínua e com a entrega de sistemas modernos e escaláveis. Aplicando as melhores práticas do mercado.
+- ⚡ Comprometido com a evolução contínua e com a entrega de sistemas modernos e escaláveis, aplicando as melhores práticas do mercado.
 
 ## 🛠️ Stack Tecnológica
 Minhas ferramentas principais para construir sites e sistemas web:
@@ -18,7 +18,7 @@ Minhas ferramentas principais para construir sites e sistemas web:
 - **Ferramentas:** Git, Docker, Vercel.
 
 ## 💼 Meu Trabalho Atual
-Atualmente, estou trabalhando no desenvolvimento de um CRM de um escritorio de representação comercial - PVE Representações.
+Atualmente, estou trabalhando no desenvolvimento de um sistema CRM interno para o escritorio de representação comercial - PVE Representações.
 
 ---
 
