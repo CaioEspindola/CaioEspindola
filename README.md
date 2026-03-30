@@ -1,16 +1,30 @@
-## Hi there 👋
+# Olá, eu sou o Caio Espíndola 👋
 
-<!--
-**CaioEspindola/CaioEspindola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor Full Stack** desde 2023 focado em transformar ideias em aplicações web completas. 
+Atualmente atuo com minha prestadora de serviços digital **Sistemas Web C.E** na qual sou fundador, meu trabalho é transformar e trazer as ideias dos clientes pro mundo digital, unindo técnica e transparência para entregar soluções que vão do site ao banco de dados, proporcionando gráficos e relatorios.
 
-Here are some ideas to get you started:
+## 🚀 Sobre mim
+- 👨‍💻 Desenvolvedor Full Stack focado em criar soluções digitais para empresas e profissionais autônomos que buscam escalar sua presença online ou criar sistemas web.
+- 🤝 Acredito no desenvolvimento colaborativo, onde o cliente participa da construção, sendo ouvido e orientado tecnicamente em cada tomada de decisão.
+- ⚡ Comprometido com a minha evolução contínua e com a entrega de sistemas seguros, modernos e escaláveis. Aplicando as melhores práticas do mercado.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Stack Tecnológica
+Minhas ferramentas principais para construir sites e sistemas web:
+
+- **Frontend:** React.js, Next.js, Tailwind CSS.
+- **Backend:** Node.js.
+- **Banco de Dados:** PostgreSQL, MySQL. ORM drizzle].
+- **Ferramentas:** Git, Docker, Vercel.
+
+## 💼 Meu Trabalho Atual
+Atualmente, estou trabalhando no desenvolvimento de um CRM de um escritorio de representação comercial - PVE Representações.
+
+---
+
+### 📫 Vamos conversar?
+- **Site:** [sistemaswebce.com.br](https://sistemaswebce.com.br/)
+- **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/caio-esp%C3%ADndola/)]
+
+<p align="center">
+  © Desde 2023 — Caio Espíndola
+</p>
