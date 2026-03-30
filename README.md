@@ -1,3 +1,4 @@
+<div lang="pt-br">
 # 👋
 
 **Desenvolvedor Full Stack** desde Jan/2023 focado em transformar ideias em aplicações web completas.<br/>
@@ -29,3 +30,4 @@ Atualmente, estou trabalhando no desenvolvimento de um sistema CRM interno para 
 <p align="center">
   © Desde 2023 — Caio Espíndola
 </p>
+</div>
