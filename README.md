@@ -1,18 +1,17 @@
 <div lang="pt-br">
   
 ## 👋
-Gosto de transformar e trazer as ideias dos clientes para o mundo digital, unindo técnica e transparência para entregar soluções eficientes que vão do site ao banco de dados, com
-gráficos, relatórios e SEO.
+Gosto de transformar e trazer as ideias das pessoas e clientes para o mundo digital!
 
 ## 🚀 Sobre mim
-- 👨‍💻 Desenvolvedor Full Stack focado em criar soluções digitais para empresas e profissionais autônomos que buscam escalar sua presença online com sites ou criar sistemas web.
+- 👨‍💻 Desenvolvedor Full Stack desde Jan/2023 focado em criar soluções digitais para empresas e profissionais autônomos que buscam escalar sua presença online com sites ou criar sistemas web.
 - 🤝 Acredito no desenvolvimento colaborativo, onde o cliente participa da construção, sendo ouvido e orientado tecnicamente em cada tomada de decisão.
-- ⚡ Comprometido com a evolução contínua e com a entrega de sistemas modernos e escaláveis, aplicando as melhores práticas do mercado.
+- ⚡ Comprometido com a evolução contínua e com a entrega de pojetos modernos e escaláveis, aplicando as melhores práticas do mercado.
 
 ## 🛠️ Stack Tecnológica
 Minhas ferramentas principais para construir sites e sistemas web:
 
-- **Frontend:** React, Next.js, Tailwind CSS.
+- **Frontend:** React, Next.js, CSS Modules, Tailwind CSS.
 - **Backend:** Node.js.
 - **Banco de Dados:** PostgreSQL, MySQL, ORM Drizzle.
 - **Ferramentas:** Git, Docker, Vercel.
@@ -20,9 +19,8 @@ Minhas ferramentas principais para construir sites e sistemas web:
 ## 💼 Meu Trabalho Atual
 Atualmente, estou trabalhando no desenvolvimento de um sistema CRM interno para o escritorio de representação comercial - PVE Representações.<br/>
 
-Tambem tenho uma prestadora de serviços digital **Sistemas Web C.E** na qual sou fundador e desenvolvedor.
+Tambem tenho uma prestadora de serviços digital chamada **Sistemas Web C.E** na qual sou fundador e desenvolvedor.
 
-**Desenvolvedor Full Stack** desde Jan/2023 focado em transformar ideias em aplicações web completas.<br/>
 
 ---
 
