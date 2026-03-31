@@ -1,8 +1,8 @@
 <div lang="pt-br">
   
 ## 👋
-Gosto de trazer as ideias das pessoas e clientes para o mundo digital !<br/>
-Gosto de ver quando se transformam em soluções e melhoria para algo..
+- Gosto de trazer as ideias das pessoas e clientes para o mundo digital !<br/>
+- Gosto de ver quando se transformam em soluções e melhoria para algo..
 
 ## 🚀 Sobre mim
 - 👨‍💻 Desenvolvedor Full Stack desde Jan/2023 focado em criar soluções digitais para empresas e profissionais autônomos que buscam escalar sua presença online com sites ou criar sistemas web.
