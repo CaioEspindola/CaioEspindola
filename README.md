@@ -1,8 +1,6 @@
 <div lang="pt-br">
   
 ## 👋
-**Desenvolvedor Full Stack** desde Jan/2023 focado em transformar ideias em aplicações web completas.<br/>
-
 Gosto de transformar e trazer as ideias dos clientes para o mundo digital, unindo técnica e transparência para entregar soluções eficientes que vão do site ao banco de dados, com
 gráficos, relatórios e SEO.
 
@@ -23,6 +21,8 @@ Minhas ferramentas principais para construir sites e sistemas web:
 Atualmente, estou trabalhando no desenvolvimento de um sistema CRM interno para o escritorio de representação comercial - PVE Representações.<br/>
 
 Tambem tenho uma prestadora de serviços digital **Sistemas Web C.E** na qual sou fundador e desenvolvedor.
+
+**Desenvolvedor Full Stack** desde Jan/2023 focado em transformar ideias em aplicações web completas.<br/>
 
 ---
 
