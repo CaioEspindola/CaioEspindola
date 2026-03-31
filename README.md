@@ -28,7 +28,7 @@ Tambem tenho uma prestadora de serviços digital **Sistemas Web C.E** na qual so
 
 ### 📫 Links
 - **Site:** [sistemaswebce.com.br](https://sistemaswebce.com.br/)
-- **LinkedIn:** (https://www.linkedin.com/in/caio-esp%C3%ADndola/)
+- **LinkedIn:** https://www.linkedin.com/in/caio-esp%C3%ADndola/
 
 <p align="center">
   © Desde 2023 — Caio Espíndola
