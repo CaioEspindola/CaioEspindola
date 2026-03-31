@@ -1,5 +1,5 @@
 <div lang="pt-br">
-# 👋
+## 👋
 
 **Desenvolvedor Full Stack** desde Jan/2023 focado em transformar ideias em aplicações web completas.<br/>
 
@@ -14,7 +14,7 @@ gráficos, relatórios e SEO.
 ## 🛠️ Stack Tecnológica
 Minhas ferramentas principais para construir sites e sistemas web:
 
-- **Frontend:** React.js, Next.js, Tailwind CSS.
+- **Frontend:** React, Next.js, Tailwind CSS.
 - **Backend:** Node.js.
 - **Banco de Dados:** PostgreSQL, MySQL, ORM Drizzle.
 - **Ferramentas:** Git, Docker, Vercel.
