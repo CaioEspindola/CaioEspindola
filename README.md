@@ -15,6 +15,7 @@ Minhas ferramentas principais para construir sites e sistemas web:
 - **Frontend:** React, Next.js, CSS Modules, Tailwind CSS.
 - **Backend:** Node.js.
 - **Banco de Dados:** PostgreSQL, MySQL, ORM Drizzle.
+- **Linguagens:** TypeScript, JavaScript (ES6+).
 - **Ferramentas:** Git, Docker, Vercel.
 
 ## 💻 Trabalho Atual
