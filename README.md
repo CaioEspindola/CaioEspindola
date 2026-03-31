@@ -2,7 +2,7 @@
   
 ## 👋
 - 🌱 Gosto de trazer as ideias das pessoas e clientes para o mundo digital !<br/>
-- ✨ Gosto de ver quando se transformam em soluções e melhorias para algo..
+- ✨ Gosto de ver quando elas se transformam em soluções reais e melhorias para o dia a dia.
 
 ## 🚀 Sobre mim
 - 👨‍💻 Desenvolvedor Full Stack desde Jan/2023 focado em criar soluções digitais para empresas e profissionais autônomos que buscam escalar sua presença online com sites ou criar sistemas web.
@@ -19,7 +19,7 @@ Minhas ferramentas principais para construir sites e sistemas web:
 - **Ferramentas:** Git, Docker, Vercel.
 
 ## 💻 Trabalho Atual
-Atualmente, estou trabalhando no desenvolvimento de um sistema CRM interno para o escritorio de representação comercial - PVE Representações.
+- 🎯 Atualmente, estou desenvolvendo um sistema **CRM** interno para o escritório de representação comercial **PVE Representações**.
 
 ---
 
